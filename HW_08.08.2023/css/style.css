@@ -1,0 +1,14 @@
+div{
+    background-color: #34495E; 
+    border-radius: 20px; 
+    padding: 21px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: white;
+}
+.main{
+    background-color: rgb(213, 210, 210);
+}
+h2{
+    color: black;
+}
