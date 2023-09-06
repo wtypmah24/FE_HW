@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    margin: 10px;
+}
+.first_task, .second_task, .third_task{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.first_task .square_1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: 30px;
+}
+
+.second_task .square_2{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    margin: 30px;
+}
+
+.third_task .square_3{
+    width: 150px;
+    height: 150px;
+    background-color: grey;
+    margin: 30px;
+}
