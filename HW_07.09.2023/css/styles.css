@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.first_task {
+    margin: 40px;
+}
+
+.users_block {
+    width: 500px;
+    margin: 40px;
+    border: 1px solid black;
+    height: 50vh;
+    display: flex;
+    align-items: top;
+}
+
+.user_card {
+    height: 25%;
+    width: 30%;
+    margin: 10px;
+    border: 1px solid black;
+}
